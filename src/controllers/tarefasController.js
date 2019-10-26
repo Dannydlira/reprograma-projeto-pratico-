@@ -28,6 +28,10 @@ exports.getNome = (req, res) => {
         res.status(200).send(buscarNome) 
     
  }
+    exports.getInclusao = (req, res) => {
+        const dataInclusao = new Date();
+        
+    }
  
 
 

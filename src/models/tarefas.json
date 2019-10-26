@@ -5,7 +5,7 @@
         "concluido": "false",
         "descricao": "Tarefa 1 - Agora Vai",
         "nomeColaborador": "Daniela",
-        "dataConclusao": "24/10/2019"
+        "dataConclusao": "27/10/2019"
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "concluido": "true",
         "descricao": "Tarefa 2 - Vai com fé",
         "nomeColaborador": "Daniela",
-        "dataConclusao": "24/10/2019"
+        "dataConclusao": "22/10/2019"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "concluido": "false",
         "descricao": "Tarefa 3 - Confia",
         "nomeColaborador": "Daniela",
-        "dataConclusao": "24/10/2019"
+        "dataConclusao": "29/10/2019"
     },
     {
         "id": 4,
